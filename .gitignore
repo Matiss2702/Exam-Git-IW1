@@ -1,3 +1,4 @@
 .env
+.env.exemaple
 package-lock.json
 /node_modules
